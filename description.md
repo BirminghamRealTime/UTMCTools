@@ -18,7 +18,7 @@ Some data is sourced from Highways England and is available elsewhere.
 *Updated every 5 minutes for most sources*
 
 #### ANPR - http://butc.opendata.onl/UTMC%20ANPR.xml 
-((XML)[http://butc.opendata.onl/UTMC%20ANPR.xml],(JSON)[http://butc.opendata.onl/UTMC%20ANPR.json],(XLSX)[http://butc.opendata.onl/UTMC%20ANPR.xlsx],(XLS)[http://butc.opendata.onl/UTMC%20ANPR.xls],(CSV)[http://butc.opendata.onl/UTMC%20ANPR.csv],(TXT)[http://butc.opendata.onl/UTMC%20ANPR.txt],(HTM)[http://butc.opendata.onl/UTMC%20ANPR.htm])
+([XML](http://butc.opendata.onl/UTMC%20ANPR.xml), [JSON](http://butc.opendata.onl/UTMC%20ANPR.json), [XLSX](http://butc.opendata.onl/UTMC%20ANPR.xlsx), [XLS](http://butc.opendata.onl/UTMC%20ANPR.xls), [CSV](http://butc.opendata.onl/UTMC%20ANPR.csv), [TXT](http://butc.opendata.onl/UTMC%20ANPR.txt), [HTM](http://butc.opendata.onl/UTMC%20ANPR.htm))
 
 -	**TravelTime** – travel time in seconds over the Automatic Number Plate Recognition link.
 -	SCN’s labelled ‘Wifi?’ are not ANPR but are created using mac address detection over wifi, and processed in the same way as number plates.
