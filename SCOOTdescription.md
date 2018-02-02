@@ -1,7 +1,11 @@
 #Description of the Scoot Dataset
+
 Description of the SCOOT dataset, based on information available on the github page (https://github.com/BirminghamRealTime/UTMCTools/blob/master/description.md) and SCOOT website (http://www.scoot-utc.com).
+
 The dataset includes data collected from the SCOOT (Split Cycle Offset Optimisation Technique) system, specifically data about the SCOOT links, which are generally between two signalised junctions.   Information about how SCOOT works in general to automatically control traffic signals is available on the website (http://www.scoot-utc.com).  Briefly, the system works by detecting ``vehicles at the start of each approach to every controlled intersection'' usually through the use of induction loops.  This data is then used by a model to control the traffic signals, usually in terms of ``the amount of green for each approach (Split), the time between adjacent signals (Offset) and the time allowed for all approaches to a signalled intersection (Cycle time).''
+
 The description of attributes below is based on the JSON encoding of the dataset (butc.opendata.onl/AL_opendata/scoot.json); the XML encoding uses a similar format.  Column headers for tabular formats (XLS, XLSX, CSV) are included in brackets following the JSON attribute path.  All quotes below are from the SCOOT website, typically page describing ASTRID the Automatic SCOOT Traffic Information Database (http://www.scoot-utc.com/ASTRID.php)
+
 Each item in the SCOOT dataset is described in terms of the following attributes:
 *SCN - a unique identifier value for the SCOOT link. 
 (Description, which is always blank.
