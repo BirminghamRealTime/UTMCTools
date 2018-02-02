@@ -18,7 +18,7 @@ Some data is sourced from Highways England and is available elsewhere.
 *Updated every 5 minutes for most sources*
 
 #### ANPR - http://butc.opendata.onl/UTMC%20ANPR.xml 
-(xml, json, xlsx, xls, csv, txt, htm)
+((XML)[http://butc.opendata.onl/UTMC%20ANPR.xml],(JSON)[http://butc.opendata.onl/UTMC%20ANPR.json],(XLSX)[http://butc.opendata.onl/UTMC%20ANPR.xlsx],(XLS)[http://butc.opendata.onl/UTMC%20ANPR.xls],(CSV)[http://butc.opendata.onl/UTMC%20ANPR.csv],(TXT)[http://butc.opendata.onl/UTMC%20ANPR.txt],(HTM)[http://butc.opendata.onl/UTMC%20ANPR.htm])
 
 -	**TravelTime** – travel time in seconds over the Automatic Number Plate Recognition link.
 -	SCN’s labelled ‘Wifi?’ are not ANPR but are created using mac address detection over wifi, and processed in the same way as number plates.
@@ -29,7 +29,7 @@ Some data is sourced from Highways England and is available elsewhere.
 
 -	**Value_Level** shows average speed over last 5 mins. Note that ‘80’ is a default provided by internal system when data is not available. Cross check against ‘UTMC Flow’ to see if it’s a real one.
 
-#### Congestion http://butc.opendata.onl/UTMC%20Congestion.xml 
+#### Congestion  - http://butc.opendata.onl/UTMC%20Congestion.xml 
 (xml, json, xlsx, xls, csv, txt, htm)
 
 -	Very few records in here. Value level shows congestion percentage.
