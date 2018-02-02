@@ -2,7 +2,7 @@
 
 Tools and guidance for accessing BCC Traffic Opendata.
 
-This is an initial set of tools for accessing Birmingham City Council (BCC) opendata made available at [http://butc.opendata.onl/AL_opendata] (http://butc.opendata.onl/AL_opendata)
+This is an initial set of tools for accessing Birmingham City Council (BCC) opendata made available at: [http://butc.opendata.onl/AL_opendata](http://butc.opendata.onl/AL_opendata)
 
 - utmctools.py is a python library that join the live flow data to locations identified on OpenStreetmap
 - bearingcache.json is on of the outputs from utmctools.py and can be used to locate the sensors
